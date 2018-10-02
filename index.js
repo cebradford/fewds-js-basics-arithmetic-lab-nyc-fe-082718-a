@@ -8,7 +8,7 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-var newID = oldID + 1000000001;
+const newID = oldID + 1000000001;
 
 const ageIsValid = currentAge.isInteger();
 
